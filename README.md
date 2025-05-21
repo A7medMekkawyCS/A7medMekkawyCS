@@ -18,7 +18,8 @@
 
 ### 🧰 Tech Stack
 
-- **Languages**: JavaScript, Python, Bash
+- **Languages**: JavaScript, Python, Bash,c++,c#
+- **Skills**: Algorithms, OOP,Design Patterns,SOLID
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB, PostgreSQL
 - **DevOps**: Docker, Railway, Render
