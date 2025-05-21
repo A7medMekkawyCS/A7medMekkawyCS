@@ -23,18 +23,43 @@
 
 ---
 
-## 🧰 Tech Stack
+---
 
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="40" />
+### 🧰 Tech Stack
+
+#### 🚀 Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+</div>
+
+#### 🧪 Backend Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+</div>
+
+#### 🗃️ Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+</div>
+
+#### ⚙️ DevOps / Deployment
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logoColor=white" height="25" />
+</div>
+
+#### 🧠 AI / Machine Learning
+<div align="left">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" />
 </div>
 
 ---
