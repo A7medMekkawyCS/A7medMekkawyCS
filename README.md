@@ -78,9 +78,10 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/ahmedmekawyxa" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+    <img src="https://img.shields.io/badge/Codeforces-yellow?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
 </p>
+
 
 ### 📂 Featured Projects
 
