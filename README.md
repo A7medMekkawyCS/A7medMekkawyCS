@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Backend developer with a focus on building smart, scalable systems.
+- 🧠 Backend developer with a focus on building smart, scalable systems and can Solve Problem Solving
 - 🧪 Experienced with REST APIs, authentication, and AI-powered features.
 - 🚀 Built full-stack medical systems with Node.js and Flask.
 - 🎯 Passionate about clean code, automation, and backend architecture.
@@ -73,6 +73,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A7medMekkawyCS&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=A7medMekkawyCS&theme=radical" width="45%" />
+</p>
+### 🧩 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/ahmedmekawyxa" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
 </p>
 
 ### 📂 Featured Projects
