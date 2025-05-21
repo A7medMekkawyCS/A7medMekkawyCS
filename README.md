@@ -1,4 +1,9 @@
 <h1 align="center">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/102899229?v=4" width="180" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Hi, I'm Ahmed Mekawy 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="35" />
@@ -7,12 +12,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=21D65C&center=true&width=600&lines=💻+Backend+Developer+%7C+Node.js+%7C+Flask+%7C+MongoDB+%7C+AI+Integration" alt="Typing SVG" />
 </h3>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
 
 ## 👨‍💻 About Me
 
