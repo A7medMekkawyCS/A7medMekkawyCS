@@ -1,5 +1,8 @@
 <h1 align="center">Ahmed Mekawy</h1>
-<h3 align="center">💻 Backend Developer | Node.js | Flask | MongoDB | AI Integration</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=21D65C&center=true&vCenter=true&width=600&lines=💻+Backend+Developer+%7C+Node.js+%7C+Flask+%7C+MongoDB+%7C+AI+Integration" alt="Typing SVG" />
+</h3>
+
 
 ---
 
