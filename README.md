@@ -83,6 +83,9 @@
 ---
 
 ## 🌐 Contact Me
+<a href="mailto:ahmedmekawyxa@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo" />
+</a>
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-mekkawy-118197229/)
 - [Facebook](https://www.facebook.com/profile.php?id=100009085146023)
