@@ -83,10 +83,17 @@
 ---
 
 ## 🌐 Contact Me
+<div>
+  <a href="[(https://www.linkedin.com/in/ahmed-mekkawy-118197229/)]" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
 <a href="mailto:ahmedmekawyxa@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo" />
 </a>
+  <a href="(https://x.com/A7medMekkawyCS" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-mekkawy-118197229/)
-- [Facebook](https://www.facebook.com/profile.php?id=100009085146023)
-- [Twitter](https://x.com/A7medMekkawyCS)
+
+
+
