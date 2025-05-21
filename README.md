@@ -3,6 +3,9 @@
 <h3 align="center">💻 Backend Developer | Node.js | Flask | MongoDB | AI Integration</h3>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ### 👨‍💻 About Me
 
@@ -40,6 +43,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+
