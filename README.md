@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
    <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=HTML" height="40" alt="HTML" />
 </div>
 
 #### 🧪 Backend Frameworks
