@@ -56,10 +56,18 @@
 
 #### ⚙️ DevOps / Deployment
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <div align="left" style="display: flex; gap: .5rem">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" height="40" alt="android studio logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" alt="visual studio code logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="40" alt="visual studio logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" height="40" alt="postman logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" alt="docker logo" />
   <img src="https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logoColor=white" height="25" />
 </div>
+  
 
 #### 🧠 AI / Machine Learning
 <div align="left">
