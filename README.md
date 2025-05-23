@@ -57,7 +57,7 @@
 #### ⚙️ DevOps / Deployment
 <div align="left">
   <div align="left" style="display: flex; gap: .5rem">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" height="40" alt="android studio logo" />
+ 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" alt="visual studio code logo" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="40" alt="visual studio logo" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo" />
