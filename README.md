@@ -95,6 +95,7 @@
 ### 📂 Featured Projects
 
 - 🔬 [backend_scan](https://github.com/A7medMekkawyCS/backend_scan.git)
+- - 🔬 [E-Commerce]((https://github.com/A7medMekkawyCS/E-Commerce.git))
 - ⚡ [fast_API](https://github.com/A7medMekkawyCS/fast_API.git)
 
 ---
